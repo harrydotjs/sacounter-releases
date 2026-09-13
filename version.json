@@ -1,7 +1,7 @@
 {
   "versionCode": 4,
   "versionName": "1.3",
-  "apkUrl": "https://github.com/harrydotjs/sacounter-releases/releases/download/v1.2/app-release.apk",
-  "changelog": "नया लुक, आरती बैकग्राउंड प्लेबैक और नई सुविधाएँ।",
+  "apkUrl": "https://github.com/harrydotjs/sacounter-releases/releases/download/v1.3/app-release.apk",
+  "changelog": "• नया इंटरफ़ेस और प्रदर्शन में सुधार\n• बैकग्राउंड आरती प्लेबैक जोड़ा गया\n• बग फिक्स किए गए",
   "forceUpdate": false
 }
